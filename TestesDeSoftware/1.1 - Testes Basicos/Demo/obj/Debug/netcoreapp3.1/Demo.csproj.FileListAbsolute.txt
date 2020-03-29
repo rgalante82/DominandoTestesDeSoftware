@@ -7,3 +7,12 @@ C:\dev\labs\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\D
 C:\dev\labs\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
 C:\dev\labs\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.dll
 C:\dev\labs\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\dev\labs\DominandoTestesDeSoftware\TestesDeSoftware\1.1 - Testes Basicos\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
